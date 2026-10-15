@@ -1,0 +1,13 @@
+﻿product_id,product_name,line_of_business,coverage_type,min_sum_insured_usd,max_sum_insured_usd,base_rate_pct,policy_term_months,is_active,launched_date
+PRD-001,Motor — Comprehensive,Motor,Comprehensive,8000,90000,4.2,12,Yes,11-01-2021
+PRD-002,Motor — Third Party,Motor,Third Party,8000,60000,1.6,12,No,08-11-2021
+PRD-003,Medical — Individual,Medical,Individual,15000,120000,7.8,12,Yes,17-01-2021
+PRD-004,Medical — Group Corporate,Medical,Group Corporate,80000,900000,6.9,12,Yes,09-01-2022
+PRD-005,Property — Fire & Perils,Property,Fire & Perils,120000,4000000,0.42,12,Yes,23-10-2018
+PRD-006,Property — All Risks,Property,All Risks,200000,6000000,0.55,12,Yes,02-07-2022
+PRD-007,Marine — Cargo,Marine,Cargo,40000,1200000,0.75,12,Yes,12-10-2018
+PRD-008,Marine — Hull,Marine,Hull,300000,5000000,1.1,12,Yes,11-08-2021
+PRD-009,Engineering — Contractors Risk,Engineering,Contractors Risk,250000,8000000,0.85,12,Yes,15-07-2020
+PRD-010,Engineering — Machinery,Engineering,Machinery,90000,1500000,1.35,12,Yes,30-04-2018
+PRD-011,Travel — Individual,Travel,Individual,10000,60000,2.1,12,Yes,16-08-2021
+PRD-012,Liability — Public Liability,Liability,Public Liability,100000,2500000,0.95,12,Yes,30-01-2022

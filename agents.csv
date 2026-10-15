@@ -1,0 +1,61 @@
+﻿agent_id,agent_name,distribution_channel,country,city,commission_rate_pct,joined_date,is_active
+AGT-001,Dana Al Kuwari,Broker,Saudi Arabia,Riyadh,14.96,01-02-2023,Yes
+AGT-002,Tariq Al Balushi,Direct Sales,Qatar,Al Rayyan,7.32,19-08-2018,Yes
+AGT-003,Latifa Al Suwaidi,Agency,United Arab Emirates,Abu Dhabi,10.86,23-12-2021,Yes
+AGT-004,Maha Al Hashimi,Broker,Oman,Salalah,15.73,11-05-2023,Yes
+AGT-005,Huda Al Dosari,Agency,Bahrain,Riffa,8.39,17-12-2022,Yes
+AGT-006,Abdullah Al Mansouri,Broker,United Arab Emirates,Sharjah,14.75,02-09-2021,Yes
+AGT-007,Khalid Al Hashimi,Broker,Qatar,Al Rayyan,12.07,20-11-2020,Yes
+AGT-008,Saif Al Kuwari,Broker,Saudi Arabia,Riyadh,11.39,26-10-2017,Yes
+AGT-009,Dana Al Otaibi,Direct Sales,Qatar,Doha,7.53,01-01-2023,Yes
+AGT-010,Sara Al Kuwari,Direct Sales,Bahrain,Manama,5.02,18-10-2022,Yes
+AGT-011,Tariq Al Balushi,Agency,Qatar,Al Rayyan,11.34,04-10-2021,No
+AGT-012,Hessa Al Balushi,Online,Saudi Arabia,Mecca,1.21,29-08-2022,Yes
+AGT-013,Reem Al Kuwari,Broker,Oman,Salalah,15.76,18-12-2020,Yes
+AGT-014,Rashid Al Harbi,Agency,Bahrain,Manama,8.92,19-05-2018,Yes
+AGT-015,Latifa Al Hashimi,Broker,United Arab Emirates,Abu Dhabi,11.44,18-03-2023,Yes
+AGT-016,Salem Al Mansouri,Agency,United Arab Emirates,Abu Dhabi,13.8,06-03-2023,Yes
+AGT-017,Noura Al Kuwari,Online,Saudi Arabia,Jeddah,0.76,19-11-2021,Yes
+AGT-018,Huda Al Kuwari,Broker,Kuwait,Hawalli,13.86,17-12-2020,Yes
+AGT-019,Khalid Al Dosari,Agency,Qatar,Al Rayyan,13.19,19-02-2018,Yes
+AGT-020,Latifa Al Zaabi,Online,Saudi Arabia,Riyadh,2.66,09-03-2019,Yes
+AGT-021,Fahad Al Rashid,Direct Sales,United Arab Emirates,Sharjah,7.69,22-10-2020,Yes
+AGT-022,Reem Al Zaabi,Direct Sales,Qatar,Al Rayyan,6.93,21-09-2021,Yes
+AGT-023,Bader Al Khalifa,Broker,Qatar,Al Rayyan,15.56,25-08-2017,Yes
+AGT-024,Khalid Al Harbi,Online,United Arab Emirates,Dubai,1.24,12-09-2017,Yes
+AGT-025,Rashid Al Otaibi,Direct Sales,Oman,Muscat,6.41,25-10-2022,Yes
+AGT-026,Reem Al Otaibi,Bancassurance,United Arab Emirates,Abu Dhabi,7.37,10-12-2021,Yes
+AGT-027,Sara Al Ghanim,Bancassurance,Saudi Arabia,Dammam,6.55,25-08-2019,Yes
+AGT-028,Dana Al Harbi,Broker,Qatar,Doha,13.82,10-12-2018,Yes
+AGT-029,Bader Al Otaibi,Online,Saudi Arabia,Mecca,1.38,08-07-2019,Yes
+AGT-030,Latifa Al Harbi,Direct Sales,Bahrain,Riffa,4.77,23-07-2022,Yes
+AGT-031,Fahad Al Suwaidi,Online,Saudi Arabia,Mecca,0.48,20-02-2020,Yes
+AGT-032,Maha Al Otaibi,Agency,United Arab Emirates,Sharjah,10.99,03-12-2020,Yes
+AGT-033,Maha Al Kuwari,Broker,Bahrain,Riffa,12.07,03-07-2019,Yes
+AGT-034,Fahad Al Kuwari,Bancassurance,Oman,Salalah,10.9,02-06-2023,Yes
+AGT-035,Khalid Al Mansouri,Broker,Saudi Arabia,Mecca,16.13,16-02-2023,Yes
+AGT-036,Abdullah Al Hashimi,Broker,Saudi Arabia,Dammam,16.41,02-09-2022,Yes
+AGT-037,Reem Al Suwaidi,Broker,Bahrain,Manama,15.34,09-10-2021,Yes
+AGT-038,Hessa Al Kuwari,Broker,United Arab Emirates,Abu Dhabi,16.58,31-10-2018,Yes
+AGT-039,Abdullah Al Dosari,Direct Sales,Qatar,Doha,5.43,12-10-2021,Yes
+AGT-040,Majid Al Kuwari,Broker,Oman,Salalah,13.93,17-07-2022,Yes
+AGT-041,Hessa Al Harbi,Agency,Kuwait,Hawalli,9.82,14-01-2017,Yes
+AGT-042,Sara Al Hashimi,Online,Oman,Muscat,0.54,27-06-2020,Yes
+AGT-043,Huda Al Khalifa,Broker,Bahrain,Manama,14.81,21-04-2022,Yes
+AGT-044,Yousef Al Khalifa,Broker,Saudi Arabia,Jeddah,14.34,29-01-2023,Yes
+AGT-045,Rashid Al Kuwari,Direct Sales,Saudi Arabia,Jeddah,6.15,23-01-2017,Yes
+AGT-046,Abdullah Al Kuwari,Agency,United Arab Emirates,Sharjah,11.98,20-11-2020,Yes
+AGT-047,Amal Al Harbi,Broker,Saudi Arabia,Riyadh,13.5,01-03-2022,Yes
+AGT-048,Saif Al Suwaidi,Broker,Oman,Salalah,15.49,17-05-2023,Yes
+AGT-049,Amal Al Dosari,Agency,Qatar,Doha,11.59,02-12-2018,Yes
+AGT-050,Tariq Al Rashid,Broker,Saudi Arabia,Jeddah,15.78,14-12-2021,No
+AGT-051,Huda Al Kuwari,Bancassurance,Oman,Salalah,7.56,06-08-2022,Yes
+AGT-052,Majid Al Ghanim,Direct Sales,Saudi Arabia,Mecca,6.52,01-01-2020,Yes
+AGT-053,Majid Al Dosari,Agency,United Arab Emirates,Dubai,13.6,03-11-2019,Yes
+AGT-054,Sara Al Balushi,Broker,United Arab Emirates,Sharjah,13.89,30-09-2019,Yes
+AGT-055,Nasser Al Zaabi,Online,United Arab Emirates,Sharjah,2.46,09-05-2022,Yes
+AGT-056,Rashid Al Mansouri,Agency,Kuwait,Kuwait City,8.62,29-12-2017,Yes
+AGT-057,Huda Al Hashimi,Direct Sales,Saudi Arabia,Jeddah,4.06,16-05-2017,Yes
+AGT-058,Abdullah Al Rashid,Broker,Qatar,Doha,12.72,29-11-2020,Yes
+AGT-059,Yousef Al Hashimi,Agency,United Arab Emirates,Abu Dhabi,9.23,20-06-2019,Yes
+AGT-060,Sara Al Zaabi,Broker,Saudi Arabia,Jeddah,14.66,21-11-2022,Yes
